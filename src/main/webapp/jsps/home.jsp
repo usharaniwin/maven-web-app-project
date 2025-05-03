@@ -40,7 +40,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+91-9676831734,+91-9676831734
 		kkeducationblr@gmail.com
 		<br>
-		<a href="mailto:kkeducation@gmail.com">Mail to KK FUNDA</a>
+		<a href="mailto:kkeducation@gmail.com">Mail to SVS EVENTS</a>
 	</span>
 </div>
 <hr>
