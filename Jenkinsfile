@@ -15,7 +15,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git branch: 'Devlop', credentialsId: '84b9e77b-9119-44b3-8f82-9239c7f2fc0f', url: 'https://github.com/usharaniwin/maven-web-app-project.git'
+                git branch: 'master', credentialsId: '84b9e77b-9119-44b3-8f82-9239c7f2fc0f', url: 'https://github.com/usharaniwin/maven-web-app-project.git'
             }
         }
 
